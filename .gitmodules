@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pkgdepR"]
+	path = pkgdepR
+	url = https://github.com/edpeyton/pkgdepr
+	shallow = true
+	registered = true
